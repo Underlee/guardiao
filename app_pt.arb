@@ -1,0 +1,13 @@
+{
+  "welcome": "Bem-vindo",
+  "login": "Entrar",
+  "logout": "Sair",
+  "visitor": "Visitante",
+  "admin": "Administrador",
+  "qr_code": "Código QR",
+  "clean_data": "Limpar Dados Antigos",
+  "success": "Operação Bem-sucedida",
+  "error": "Ocorreu um Erro",
+  "language": "Idioma",
+  "change_language": "Alterar Idioma"
+}
